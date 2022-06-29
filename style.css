@@ -1,0 +1,37 @@
+h1 {
+    background-color:whitesmoke;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   padding-left: 0%;
+   padding-right: 1%;
+   text-align: center;
+}
+* { 
+    background-color:darkgray
+}
+
+#Fname { 
+     background-color:khaki;
+     padding-block-end:5%;
+     padding-top: 5%;
+ }
+
+ #Lname {
+     background-color: burlywood;
+     padding-block-end:5%;
+     padding-top: 5%;
+ }
+
+ #position {
+     background-color:gold;
+     padding-block-end:5%
+ }
+ 
+legend { 
+    color:red;
+}
+
+#font-style { 
+     font-style: italic;
+}
+
